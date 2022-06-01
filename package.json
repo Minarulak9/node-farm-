@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.4",
+    "slugify": "^1.6.5"
+  },
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "i ma learning nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Minarul Hoque",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
