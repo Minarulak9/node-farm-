@@ -63,7 +63,7 @@ const server = http.createServer((req, res) => {
     res.end();
   }
 });
-server.listen(8000, "127.0.0.1", (err) => {
+server.listen(process.env.PORT || 8000, "127.0.0.1", (err) => {
   if (err) {
     console.log(err);
   } else {
