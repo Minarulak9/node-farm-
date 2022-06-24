@@ -1,8 +1,8 @@
 # node-farm-
-node js project 
-<h2>i made this project while learning/practicing NODEJS</h2>
-
-i allrady maded some templates using html css
-then i have a local json file i read that file and collect some neded data and then attach that 
-data to templates then i serve templates to a particuler route
-
+<h3>I made this project while learning/practicing NODEJS</h3>
+<h4>Explanation</h4>
+<p>
+I allrady maded some templates using html css.
+then i have a local json file where all the data are stored for using in this project.I read that file and collect some neded data and then attach those 
+data to templates and then i serve templates to a particuler route.
+</p>
