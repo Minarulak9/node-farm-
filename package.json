@@ -1,18 +1,19 @@
 {
-  "dependencies": {
-    "node-fetch": "^3.2.4",
-    "slugify": "^1.6.5"
-  },
-  "name": "node-farm",
+  "name": "farm",
   "version": "1.0.0",
-  "description": "i ma learning nodeJs",
+  "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
-  "author": "Minarul Hoque",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minarulak9/node-farm-.git"
+  },
+  "author": "Minarul",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.16"
-  }
+  "bugs": {
+    "url": "https://github.com/Minarulak9/node-farm-/issues"
+  },
+  "homepage": "https://github.com/Minarulak9/node-farm-#readme"
 }
